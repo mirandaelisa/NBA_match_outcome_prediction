@@ -13,3 +13,6 @@ Do more complex machine learning models, like Random Forest, outperform simpler 
 <li>Matplotlib</li>
 <li>Seaborn</li>
 <li>Scikit-learn</li>
+
+Notes:
+This is a personal project built to apply Python, data science, and sports analytics skills using real-world data. It is not affiliated with any official organization.
